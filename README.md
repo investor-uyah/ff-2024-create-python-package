@@ -1,17 +1,19 @@
-# 2024 pyOpenSci Fall Festival: Create Your First Python Package
+# m_ffirst_package
 
-This repo is set up for the pyOpenSci 2024 Open Science Festival. Create a Python Package & share your code workshops.
+| |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/m_ffirst_package.svg)](https://pypi.org/project/m_ffirst_package/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/m_ffirst_package.svg)](https://pypi.org/project/m_ffirst_package/) [![Documentation](https://readthedocs.org/projects/m_ffirst_package/badge/?version=latest)](https://m_ffirst_package.readthedocs.io/en/latest/?badge=latest)                                                                                                                                                                              |
+| Meta | [![MIT](https://img.shields.io/pypi/l/m_ffirst_package.svg)](LICENSE) [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](.github/CODE_OF_CONDUCT.md) [![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/) [![Code Style Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black) [![Linting: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) |
+| Automation |                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/pyOpenSci/ff-2024-create-python-package)
+_A simple first-time package
 
-## Create a new package using copier
 
-`copier copy gh:pyopensci/pyos-package-template .`
 
-## Create a new codespace
+_
 
-1. Click on badge above **Open in GitHub Codespaces**.
+## Copyright
 
-2. Select **Create new codespace**.
+- Copyright © 2024 pYOpenSci.
+- Free software distributed under the [MIT License](./LICENSE).
 
-   <img width="566" alt="create-codespace" src="https://github.com/user-attachments/assets/57e212d1-2d76-49cb-bfb7-26ed5e4c1729">
