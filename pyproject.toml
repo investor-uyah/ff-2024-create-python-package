@@ -15,11 +15,7 @@ name = "m_ffirst_package"
 
 version = "0.1.0"
 
-description = "A simple first-time package
-
-
-
-"
+description = "A simple first-time package"
 authors = [
     { name = "Mfonobong Uyah", email = "investor.uyah@gmail.com" },
 ]
