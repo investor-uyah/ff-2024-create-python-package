@@ -1,4 +1,4 @@
-# m_ffirst_package
+# my_first_package
 
 | |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6,11 +6,7 @@
 | Meta | [![MIT](https://img.shields.io/pypi/l/m_ffirst_package.svg)](LICENSE) [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](.github/CODE_OF_CONDUCT.md) [![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/) [![Code Style Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black) [![Linting: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) |
 | Automation |                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-_A simple first-time package
-
-
-
-_
+_A simple first-time package that adds numbers_
 
 ## Copyright
 
